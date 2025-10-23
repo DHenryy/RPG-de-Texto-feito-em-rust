@@ -1,5 +1,5 @@
 # RPG-de-Texto-feito-em-rust
-Trabalho da faculdade
+Trabalho da faculdade entregue em 17/10/2025
 
 Para rodar o código em seu computador:
 1. será necessário a instalação do pacote do C++ (que pode ser baixado como pacote durante a instalação do Visual Studio) https://visualstudio.microsoft.com/pt-br/visual-cpp-build-tools/
